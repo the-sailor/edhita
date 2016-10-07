@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		34172F1A1DA72DF600C7869C /* EdhitaTests copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "EdhitaTests copy-Info.plist"; path = "/Users/siminap/Playground/test/edhita/EdhitaTests copy-Info.plist"; sourceTree = "<absolute>"; };
 		6B8E8F966873ED9325CDF63C /* Pods-Edhita.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Edhita.release.xcconfig"; path = "Pods/Target Support Files/Pods-Edhita/Pods-Edhita.release.xcconfig"; sourceTree = "<group>"; };
 		9B0AB62619EDEAAC00F4C53F /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
 		9B2E0A5519E683CC002E9CA4 /* SettingsForm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsForm.swift; sourceTree = "<group>"; };
@@ -106,6 +107,7 @@
 				9B6E1E8E19E2EB2100C72D13 /* Products */,
 				6059D7D4658BC034539410CA /* Pods */,
 				B876CAE095D50071ED5983B6 /* Frameworks */,
+				34172F1A1DA72DF600C7869C /* EdhitaTests copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
